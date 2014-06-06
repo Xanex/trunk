@@ -4,7 +4,13 @@
     {
         public  S()
         {         
-
+            
         }
+
+        public void S1()
+        {
+            
+        }
+
     }
 }
