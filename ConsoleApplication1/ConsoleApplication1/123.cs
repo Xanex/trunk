@@ -2,6 +2,9 @@
 {
     public class S
     {
-         
+        public  S()
+        {         
+
+        }
     }
 }
